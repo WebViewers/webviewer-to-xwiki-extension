@@ -2,7 +2,7 @@
     "author": "Caleb James DeLisle",
     "name": "webviewer-to-xwiki-extension",
     "description": "Convert a WebViewer into an XWiki Extension",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "repository": {
         "url": "https://github.com/WebViewers/webviewer-to-xwiki-extension.git",
         "type": "git"
@@ -13,7 +13,7 @@
     "main": "./lib/main",
     "dependencies": {
         "resilience-tools": "~0.3.3",
-        "xwiki-tools": "~0.3.4"
+        "xwiki-tools": "~0.3.5"
     },
     "engines": {
         "node": "*"
