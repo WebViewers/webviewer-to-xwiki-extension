@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('webviewer-to-xwiki-extension').commandLine();
+require('../lib/main.js').commandLine();
